@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{249:function(t,n,e){"use strict";e.r(n);var c=e(17),component=Object(c.a)({},(function(){var t=this.$createElement,n=this._self._c||t;return n("div",{staticClass:"pt-48"},[n("nuxt-img",{staticClass:"w-1/4 mx-auto",attrs:{src:"img/mariabonita.png"}})],1)}),[],!1,null,null,null);n.default=component.exports}}]);
